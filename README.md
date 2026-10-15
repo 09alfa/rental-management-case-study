@@ -18,6 +18,9 @@ Product owner and AI PM, working with Claude as an AI co-pilot for research, ana
 - **Constraints:** Lagos + Abuja launch, 8–10 hrs/week, £0 operating budget, core MVP targeted for end of March 2027.
 - **Regulation surfaced early:** two tenancy regimes, a pending Lagos tenancy bill, Nigeria Tax Act 2025, NDPA 2023 data rules and WhatsApp's 2026 AI policy all shaped requirements before any build.
 
+### Stage 0 gate (15 Oct 2026)
+Passed with one recorded deviation: AI is sequenced after the core rather than shipped at launch, mitigated by specifying, prototyping and evaluating the first AI feature during Design. The gate included a stakeholder challenge (CEO on differentiation, engineering on scope, legal/DPO on compliance), each answered with a scoped plan rather than reassurance.
+
 ## What I'm learning (Senior AI PM lens)
 - Platform and regulatory dependencies can shape an AI roadmap more than model choice.
 - Pick the first product wedge that *generates* the data later AI features need.
